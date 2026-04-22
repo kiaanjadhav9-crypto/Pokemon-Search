@@ -1,0 +1,12 @@
+body{
+background-color: black;
+font-family: monospace;
+color: white;
+text-align: center;
+font-size: 30px;
+}
+button{
+background-color: rgb(29, 156, 198);
+font-family: monospace;
+color: white;
+}
